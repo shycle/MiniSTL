@@ -1,0 +1,4 @@
+问题反馈
+1 vector<string>析构时异常
+
+2 deque的erase需要完善，因为其中的copy和copy_foward未能匹配。
